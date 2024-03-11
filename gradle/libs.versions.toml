@@ -7,7 +7,7 @@ io-quarkiverse-wiremock-quarkus-wiremock-test = "1.0.0"
 io-quarkus-quarkus-arc = "3.5.3"
 io-quarkus-quarkus-junit5 = "3.5.3"
 io-quarkus-quarkus-rest-client-reactive-jackson = "3.5.3"
-io-quarkus-quarkus-resteasy-reactive = "3.5.3"
+io-quarkus-quarkus-resteasy-reactive = "3.8.2"
 io-quarkus-quarkus-resteasy-reactive-jackson = "3.5.3"
 io-rest-assured-rest-assured = "5.3.0"
 
