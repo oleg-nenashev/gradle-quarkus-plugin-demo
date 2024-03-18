@@ -9,7 +9,7 @@ io-quarkus-quarkus-junit5 = "3.3.2"
 io-quarkus-quarkus-rest-client-reactive-jackson = "3.3.2"
 io-quarkus-quarkus-resteasy-reactive = "3.3.2"
 io-quarkus-quarkus-resteasy-reactive-jackson = "3.3.2"
-io-rest-assured-rest-assured = "5.3.0"
+io-rest-assured-rest-assured = "5.4.0"
 
 [libraries]
 io-quarkiverse-wiremock-quarkus-wiremock = { module = "io.quarkiverse.wiremock:quarkus-wiremock", version.ref = "io-quarkiverse-wiremock-quarkus-wiremock" }
