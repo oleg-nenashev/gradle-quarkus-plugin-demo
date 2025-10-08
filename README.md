@@ -1,10 +1,10 @@
-# Demo: Quarkus web service with Gradle
+# Demo: Quarkus web service with Gradle Build Tool
 
 > **WARNING:**: This branch delibirately includes old Quarkus version with
 [CVE-2023-4853](https://quarkus.io/blog/cve-2023-4853/) in `io.quarkus:quarkus-vertx-http`
 
-Demonstrates using Gradle Quarkus Plugin for building a Quarkus a web application with Gradle,
-with the WireMock dev service being used for development purposes.
+Demonstrates using Gradle Quarkus Plugin for building a Quarkus web application with Gradle Build Tool (a.k.a Gradle),
+using the WireMock dev service for development purposes.
 It uses Hacker News as a data source and mocks its REST API for local development.
 
 Components:
@@ -53,3 +53,10 @@ If you want to build an _über-jar_, execute the following command:
 ```
 
 The application, packaged as an _über-jar_, is now runnable using `java -jar build/*-runner.jar`.
+
+
+## Copyright Notice
+
+The recent version of this demo includes samples created by @oleg-nenashev while working at Gradle, Inc.
+
+Gradle®, Develocity®, Build Scan®, and the Gradlephant logo are registered trademarks of Gradle, Inc. "Gradle" means "Gradle Build Tool" and does not reference Gradle, Inc. and/or its subsidiaries.
